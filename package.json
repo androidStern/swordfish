@@ -12,6 +12,7 @@
   "license": "ISC",
   "window": {
     "toolbar": false,
+    "frame": false,
     "width": 660,
     "height": 500
   },
